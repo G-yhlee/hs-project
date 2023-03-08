@@ -1,4 +1,4 @@
-# dev 컨테이너 실행
+#### dev 컨테이너 실행
 
 ```md
 1. 익스텐션 설치
@@ -15,13 +15,13 @@ cmd + sft + [p]
 |> 버전선택
 ```
 
-# 스택 프로젝트 시작
+#### 스택 프로젝트 시작
 
 ```md
 stack new --bare hs1
 ```
 
-# random
+#### random
 
 ```md
 stack ghci --package random
