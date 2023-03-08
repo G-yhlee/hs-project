@@ -20,3 +20,9 @@ cmd + sft + [p]
 ```md
 stack new --bare hs1
 ```
+
+# random
+
+```md
+stack ghci --package random
+```
